@@ -9,11 +9,15 @@
 <!-- Languages and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
-
 - I work on DevOps, Microservices, containers, and everything around it.
 - I’m looking to collaborate on **Cloud-native Projects**
 
+<!-- Certifications -->
+<h3 align="left"><font size="+2" face="Verdana">Certification:</font></h3>
 
+- I’m  **HashiCorp Certified: Terraform Associate (003)**
+- I’m  **AWS Certified Solutions Architect – Associate**
+<br>
 
 #### Programming Language Stack
 <p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" title="java8" width="40" height="40"/> </p>
