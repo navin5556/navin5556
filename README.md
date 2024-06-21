@@ -15,9 +15,12 @@
 <!-- Certifications -->
 <h3 align="left"><font size="+2" face="Verdana">Certification:</font></h3>
 
-- I’m  **HashiCorp Certified: Terraform Associate (003)**
-- I’m  **AWS Certified Solutions Architect – Associate**
+- I’m  <a href="https://www.credly.com/badges/27965f86-b169-466e-94c6-0ecd10473216/public_url"><img src="https://img.shields.io/badge/HashiCorp%20Certified-Terraform%20Associate-%236B4CBB?style=flat&logo=terraform&logoColor=white" alt="HashiCorp Certified: Terraform Associate"></a>
+- I’m  <a href="https://www.credly.com/badges/4d4e5b06-daed-4d7c-b8c8-397367a30d50/public_url"><img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-%23FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Certified Solutions Architect – Associate"></a>
+
 <br>
+
+
 
 #### Programming Language Stack
 <p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" title="java8" width="40" height="40"/> </p>
